@@ -1,11 +1,11 @@
 # WebVerticle — robots.txt
-# https://www.webvertical.com
+# https://www.webverticle.com
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://www.webvertical.com/sitemap.xml
+Sitemap: https://www.webverticle.com/sitemap.xml
 
 # Crawl-delay (be polite to servers)
 Crawl-delay: 1
