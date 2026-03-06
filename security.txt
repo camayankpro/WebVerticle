@@ -1,0 +1,4 @@
+Contact: mailto:contact@webverticle.com
+Preferred-Languages: en
+Canonical: https://www.webverticle.com/.well-known/security.txt
+Policy: If you discover a security vulnerability on webverticle.com, please report it responsibly to contact@webverticle.com. We will acknowledge receipt within 48 hours.

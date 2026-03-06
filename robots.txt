@@ -1,0 +1,26 @@
+# WebVerticle — robots.txt
+# https://www.webverticle.com
+
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+# Sitemap
+Sitemap: https://www.webverticle.com/sitemap.xml
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Others
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /

@@ -1,0 +1,60 @@
+{
+  "id": "/",
+  "name": "WebVerticle — Websites for CA, CS & Professional Firms",
+  "short_name": "WebVerticle",
+  "description": "Professional website design for CA, CS, Lawyers & Doctors across India. Local SEO, free hosting, professional email. Live in 48 hours. ₹11,000 one-time.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A1F44",
+  "orientation": "portrait-primary",
+  "lang": "en-IN",
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Get Your Website",
+      "url": "/#contact",
+      "description": "Book a free demo call with WebVerticle"
+    },
+    {
+      "name": "See Our Work",
+      "url": "/#portfolio",
+      "description": "See example CA and CS websites we build"
+    }
+  ]
+}
